@@ -9,8 +9,8 @@ import org.springframework.stereotype.Service;
 
 import com.example.ms_biblioteca.Client.JuegoFeignClient;
 import com.example.ms_biblioteca.Client.UsuarioFeignClient;
-import com.example.ms_biblioteca.DTO.JuegoDTO;
-import com.example.ms_biblioteca.DTO.UsuarioDTO;
+import com.example.ms_biblioteca.Model.DTO.JuegoDTO;
+import com.example.ms_biblioteca.Model.DTO.UsuarioDTO;
 import com.example.ms_biblioteca.Model.Biblioteca;
 import com.example.ms_biblioteca.Repository.BibliotecaRepository;
 

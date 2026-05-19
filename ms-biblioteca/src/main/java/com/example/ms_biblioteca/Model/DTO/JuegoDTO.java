@@ -1,4 +1,4 @@
-package com.example.ms_biblioteca.DTO;
+package com.example.ms_biblioteca.Model.DTO;
 
 import lombok.Data;
 

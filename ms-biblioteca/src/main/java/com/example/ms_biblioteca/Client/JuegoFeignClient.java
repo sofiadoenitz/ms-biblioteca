@@ -4,7 +4,7 @@ import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
-import com.example.ms_biblioteca.DTO.JuegoDTO;
+import com.example.ms_biblioteca.Model.DTO.JuegoDTO;
 
 @FeignClient(
     name = "ms-juego",
